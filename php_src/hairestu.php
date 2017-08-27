@@ -111,7 +111,6 @@ function teamList($teamName){
   echo $sum;
   echo array_sum($data2);
   echo "<br>";
-  echo "<br>";
 }
 
 ?>
